@@ -95,3 +95,11 @@ echo "Restauración completada y registrada en el log."
 
 ## Conclusión
 Con estos pasos, el script ofrece una solución detallada y funcional para la tarea de restaurar una base de datos MySQL, con funcionalidades adicionales para mayor utilidad y seguridad.
+
+## Muestras de ejecución del codigo 
+
+![Corriendo el script de Restaución de Base de datos -- dentro /scritp](image-1.png)
+
+
+![Archivo de resultados de Restauración de Base de datos --- dentro /backups](image.png)
+
