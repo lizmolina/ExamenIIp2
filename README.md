@@ -4,7 +4,7 @@ El examen se realizó dentro de la maquina virtual ´database´ creada anteriorm
 
 ## Comando Iniciales
 
-´´´
+´´´ bash
 vagrant up
 vagrant ssh
 cd /vagrant/script
@@ -12,6 +12,7 @@ touch examenP2.sh
 code .
 chmod +x examenP2.sh
 ./examenP2.sh 
+
 ´´´
 
 ## Cuando ya creamos el script para  ejecturlo pasando la ruta como parametro
